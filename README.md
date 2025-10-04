@@ -20,6 +20,7 @@ Pedestrian crossings
 No entry signs
 Yield signs, etc.
 
+
 ⚙️ Model Architecture
 We used a Convolutional Neural Network (CNN) built with TensorFlow/Keras.
 
@@ -75,7 +76,6 @@ pip install -r requirements.txt
 
 
 Run training:
-
 python train.py
 
 
